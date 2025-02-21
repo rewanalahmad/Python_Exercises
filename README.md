@@ -1,7 +1,9 @@
 # Python_Exercises
 Python exercises for beginners 
 
-Welcome to my Python Exercises repository! 🚀 This repository contains 11 Python coding exercises along with their solutions. These exercises cover fundamental programming concepts, including loops, conditionals, string manipulation, and mathematical operations.
+Welcome to my Python Exercises repository! This collection contains 12 Python coding exercises, covering loops, conditionals, string manipulation, and math operations.
+
+Each script is well-documented, explaining the problem, logic, and solution for easy understanding.
 
 Exercises List
 
