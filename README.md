@@ -45,13 +45,26 @@ Get each digit from a number in the reverse order
  For example, If the given integer number is 7536, the output shall be “6 3 5 7“, with a space separating the digits.
  
 
-🔟  Multiplication Table (1 to 10)
+🔟Calculate income tax for the given income by adhering to the rules below
+Taxable Income
+Rate (in%)
+First $10,000
+0   
+Next $10,000
+10
+The remaining
+20
+
+1️⃣1️⃣ Multiplication Table (1 to 10)
 
 Print multiplication table from 1 to 10
 
-1️⃣1️⃣ Calculate Exponent
+
+ 1️⃣2️⃣Calculate Exponent
 
  Write a function called exponent(base, exp) that returns an int value of base raises to the power of exp.
+
+ 
 
 
 Happy Coding! 🎯
